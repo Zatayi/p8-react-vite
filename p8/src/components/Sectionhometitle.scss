@@ -1,17 +1,22 @@
 
 .sectiontitle{
-    padding-left: 50px;
-    padding-right: 50px;
-    height: 223px;
-    padding-bottom: 30px;
-    padding-top: 30px;
+    
+    height: 12.5rem;
+	margin-top: auto;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
     img{
         width: 100%;
     }
     h1{
-        position: relative;
+        
+        position: absolute;
+        justify-content: center;
+        text-align: center;
         color: white;
-        left: 25%;
-        top:-110px;
+        
+        
+        
     }
 }
